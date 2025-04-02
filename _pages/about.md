@@ -6,17 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-```{=html}
-<style type="text/css">
-text-align: justify;
-</style>
-```
+
+<style>body {text-align: justify}</style>
 
 
 Hello! I am Prabin, a Research Assistant Professor in the [Department of Veterinary and Animal Science](https://www.umass.edu/veterinary-animal-sciences/) in the University of Massachusetts, Amherst. I am a cell biologist and a bioinformatician. <br/><br/>
 
 **My Research**
-
+<p style:>
 I am passionate about cancer treatment and prevention. My research focuses on identifying genetic and environmental modifiers of breast cancer using mouse models and developing biomarkers/therapies to advance breast cancer treatment. Our laboratory uses a combination genetic, biochemical, molecular biology and bioinformatics approaches and utilizes cell culture, mouse models and primary breast tissues.<br/><br/>
 
 **My Background and history**
