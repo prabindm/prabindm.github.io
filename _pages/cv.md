@@ -6,31 +6,52 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<style>body {text-align: justify}</style>
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Indian Institute of Technology Bombay, 2010 
+* M.S. Utkal University, 2002
+* B.S. Sambalpur University, 2000
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020 – present		Research Assistant Professor 
+    University of Massachusetts Amherst, Amherst, MA
+* 2017 – 2020		Post-doctoral Research Associate 
+    University of Massachusetts Amherst, Amherst, MA	 	
+* 2016 – 2017		Visiting Scholar	
+    University of Massachusetts Amherst, Amherst, MA
+* 2014 – 2016		Assistant Professor (Teaching)
+    School of Life Sciences, Ravenshaw University, Cuttack, India
+* 2012 – 2014		Assistant Professor (Teaching)
+    Delhi University, New Delhi India
+* 2010 – 2012		Post-doctoral Research Associate
+    Department of Biochemistry and Molecular Biology, University of Nebraska Medical Center, Omaha, NE		
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards/Honors/Grants
+======
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022	  Columbia SHARP Program: Cohort 2022 Careers through Mentoring in Omics and Data for Early-Stage   Investigators Program
+* 2024		Research Support Grant	
+* 2023	  FRG/Healy Award							
+* 2021		Research Supprt Grant							
+* 2021 		Flex Grant for Teaching							
+* 2021		AILS-Manning Innovation Award 					
+* 2020		NIEHS extramural Paper of the Month -March, 2020			
+* 2019		The Rays of Hope Center for Breast Cancer Grants			
+          (UM Ref. no. 586,)
+* 2019		Travel Grant to Participate in Gordon Research Conference
+* 2018		Travel Grant for BCERP 13th Annual Meeting 
+* 2017		Travel Grant for Epigenetics Bootcamp, Columbia University, NY	
+* 2016		Travel Grant for BCERP Annual Meeting and EHS FEST
+* 2016		Raman Post-Doctoral Fellowship Award 
+* 2016		APCTT-ESCAP Project(UN)					
+* 2002		Junior Research Fellowship Award [5- year]
+* 2002		Short-listed for Shyama Prasad Mukherjee Fellowship Test
+
   
 Skills
 ======
