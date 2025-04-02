@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hello! I am Prabin, a Research Assistant Professor in the Department of Veterinary and Animal Science in the University of Massachusetts, Amherst. I am a cell biologist and a bioinformatician. 
+{: style="text-align: justify" }
+Hello! I am Prabin, a Research Assistant Professor in the [Department of Veterinary and Animal Science](https://www.umass.edu/veterinary-animal-sciences/) in the University of Massachusetts, Amherst. I am a cell biologist and a bioinformatician. 
 
 **My Research**
 ----------------
