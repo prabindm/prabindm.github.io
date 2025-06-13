@@ -1,6 +1,7 @@
 ---
 title: "Membrane proximal ectodomain cleavage of MUC16 occurs in the acidifyingGolgi/post-Golgi compartments"
 collection: publications
+category: manuscripts
 permalink: /publication/2015-01-01-Membrane-proximal-ectodomain-cleavage-of-MUC16-occurs-in-the-acidifyingGolgipost-Golgi-compartments
 date: 2015-01-01
 venue: 'Scientific Reports'

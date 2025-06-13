@@ -1,6 +1,7 @@
 ---
 title: "Carboxyl-terminal domain of MUC16 imparts tumorigenic and metastatic functions through nuclear translocation of JAK2 to pancreatic cancer cells"
 collection: publications
+category: manuscripts
 permalink: /publication/2015-01-01-Carboxyl-terminal-domain-of-MUC16-imparts-tumorigenic-and-metastatic-functions-through-nuclear-translocation-of-JAK2-to-pancreatic-cancer-cells
 date: 2015-01-01
 venue: 'Oncotarget'

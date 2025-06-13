@@ -1,6 +1,7 @@
 ---
 title: "TATA-binding associated factors have distinct roles during early mammalian development"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-TATA-binding-associated-factors-have-distinct-roles-during-early-mammalian-development
 date: 2024-01-01
 venue: 'Developmental Biology'

@@ -1,6 +1,7 @@
 ---
 title: "Genetic variation in sensitivity to estrogens and breast cancer risk"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-01-01-Genetic-variation-in-sensitivity-to-estrogens-and-breast-cancer-risk
 date: 2018-01-01
 venue: 'Mammalian Genome'

@@ -1,6 +1,7 @@
 ---
 title: "Metabolic Diversity in Bacterial Degradation of Aromatic Compounds"
 collection: publications
+category: manuscripts
 permalink: /publication/2007-01-01-Metabolic-Diversity-in-Bacterial-Degradation-of-Aromatic-Compounds
 date: 2007-01-01
 venue: 'OMICS: A Journal of Integrative Biology'

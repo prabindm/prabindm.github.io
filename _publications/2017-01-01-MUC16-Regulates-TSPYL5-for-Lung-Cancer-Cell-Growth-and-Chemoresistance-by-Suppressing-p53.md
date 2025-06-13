@@ -1,6 +1,7 @@
 ---
 title: "MUC16 Regulates TSPYL5 for Lung Cancer Cell Growth and Chemoresistance by Suppressing p53"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-MUC16-Regulates-TSPYL5-for-Lung-Cancer-Cell-Growth-and-Chemoresistance-by-Suppressing-p53
 date: 2017-01-01
 venue: 'Clinical Cancer Research'

@@ -1,6 +1,7 @@
 ---
 title: "Genetic modifiers of p53: opportunities for breast cancer therapies"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Genetic-modifiers-of-p53-opportunities-for-breast-cancer-therapies
 date: 2023-01-01
 venue: 'Oncotarget'

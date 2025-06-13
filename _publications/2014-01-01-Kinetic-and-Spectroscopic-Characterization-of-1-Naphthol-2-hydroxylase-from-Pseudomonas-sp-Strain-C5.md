@@ -1,6 +1,7 @@
 ---
 title: "Kinetic and Spectroscopic Characterization of 1-Naphthol 2-hydroxylase from Pseudomonas sp. Strain C5"
 collection: publications
+category: manuscripts
 permalink: /publication/2014-01-01-Kinetic-and-Spectroscopic-Characterization-of-1-Naphthol-2-hydroxylase-from-Pseudomonas-sp-Strain-C5
 date: 2014-01-01
 venue: 'Applied Biochemistry and Biotechnology'

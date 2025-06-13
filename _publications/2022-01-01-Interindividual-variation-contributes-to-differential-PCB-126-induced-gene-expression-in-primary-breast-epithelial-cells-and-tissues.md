@@ -1,6 +1,7 @@
 ---
 title: "Interindividual variation contributes to differential PCB 126 induced gene expression in primary breast epithelial cells and tissues"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Interindividual-variation-contributes-to-differential-PCB-126-induced-gene-expression-in-primary-breast-epithelial-cells-and-tissues
 date: 2022-01-01
 venue: 'Ecotoxicology and Environmental Safety'

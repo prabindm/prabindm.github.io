@@ -1,6 +1,7 @@
 ---
 title: "Induced mammary cancer in rat models: pathogenesis, genetics, and relevance to female breast cancer"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Induced-mammary-cancer-in-rat-models-pathogenesis-genetics-and-relevance-to-female-breast-cancer
 date: 2022-01-01
 venue: 'Journal of Mammary Gland Biology and Neoplasia'

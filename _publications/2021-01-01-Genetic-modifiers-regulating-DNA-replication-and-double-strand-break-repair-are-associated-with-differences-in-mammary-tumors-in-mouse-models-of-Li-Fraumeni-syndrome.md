@@ -1,6 +1,7 @@
 ---
 title: "Genetic modifiers regulating DNA replication and double-strand break repair are associated with differences in mammary tumors in mouse models of Li-Fraumeni syndrome"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Genetic-modifiers-regulating-DNA-replication-and-double-strand-break-repair-are-associated-with-differences-in-mammary-tumors-in-mouse-models-of-Li-Fraumeni-syndrome
 date: 2021-01-01
 venue: 'Oncogene'

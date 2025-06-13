@@ -1,6 +1,7 @@
 ---
 title: "Bioorthogonal nanozymes for breast cancer imaging and therapy"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Bioorthogonal-nanozymes-for-breast-cancer-imaging-and-therapy
 date: 2023-01-01
 venue: 'Journal of Controlled Release'

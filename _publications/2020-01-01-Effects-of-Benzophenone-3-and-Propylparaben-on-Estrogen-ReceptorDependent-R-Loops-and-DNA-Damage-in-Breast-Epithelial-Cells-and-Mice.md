@@ -1,6 +1,7 @@
 ---
 title: "Effects of Benzophenone-3 and Propylparaben on Estrogen Receptor–Dependent R-Loops and DNA Damage in Breast Epithelial Cells and Mice"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-Effects-of-Benzophenone-3-and-Propylparaben-on-Estrogen-ReceptorDependent-R-Loops-and-DNA-Damage-in-Breast-Epithelial-Cells-and-Mice
 date: 2020-01-01
 venue: 'Environmental Health Perspectives'

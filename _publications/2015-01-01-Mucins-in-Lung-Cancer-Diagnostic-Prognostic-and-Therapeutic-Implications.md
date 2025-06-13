@@ -1,6 +1,7 @@
 ---
 title: "Mucins in Lung Cancer: Diagnostic, Prognostic, and Therapeutic Implications"
 collection: publications
+category: manuscripts
 permalink: /publication/2015-01-01-Mucins-in-Lung-Cancer-Diagnostic-Prognostic-and-Therapeutic-Implications
 date: 2015-01-01
 venue: 'Journal of Thoracic Oncology'

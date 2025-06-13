@@ -1,6 +1,7 @@
 ---
 title: "Inducible estrogen receptor alpha in normal breast epithelial cells demonstrate estrogen receptor-dependent DNA damage"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Inducible-estrogen-receptor-alpha-in-normal-breast-epithelial-cells-demonstrate-estrogen-receptor-dependent-DNA-damage
 date: 2025-01-01
 venue: 'bioRxiv'

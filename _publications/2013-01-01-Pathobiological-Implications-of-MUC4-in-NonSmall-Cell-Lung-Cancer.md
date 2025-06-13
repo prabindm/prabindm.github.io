@@ -1,6 +1,7 @@
 ---
 title: "Pathobiological Implications of MUC4 in Non–Small-Cell Lung Cancer"
 collection: publications
+category: manuscripts
 permalink: /publication/2013-01-01-Pathobiological-Implications-of-MUC4-in-NonSmall-Cell-Lung-Cancer
 date: 2013-01-01
 venue: 'Journal of Thoracic Oncology'
